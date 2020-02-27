@@ -1,0 +1,12 @@
+./find_phone/16.jpg
+./find_phone/57.jpg
+./find_phone/134.jpg
+./find_phone/42.jpg
+./find_phone/45.jpg
+./find_phone/120.jpg
+./find_phone/131.jpg
+./find_phone/34.jpg
+./find_phone/76.jpg
+./find_phone/102.jpg
+./find_phone/81.jpg
+./find_phone/125.jpg
